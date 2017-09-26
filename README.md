@@ -1,1 +1,2 @@
 # first-repo
+Very stupit!!!
